@@ -1,10 +1,12 @@
-# Build a Blockchain
+# Build a Blockchain Data Structure
 
 This challenge is part of [Alchemy University](https://university.alchemy.com)'s Ethereum Developer Bootcamp.
 
 ## Goal
 
 Implement a basic blockchain and learn about blocks, hashes and how blocks are linked together to create a cryptographically secure blockchain construct!
+
+![Structure](./images/structure.png)
 
 ## Available Scripts
 
